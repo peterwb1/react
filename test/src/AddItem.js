@@ -14,7 +14,9 @@ const AddItem = ({ newItem, setNewItem, handleSubmit }) => {
                 placeholder="Add an item"
                 required
                 value={newItem}
-                onChange={(e) => setNewItem(e.target.value)}
+                onChange={(e) => setNewItem(e.target.value)
+                }
+                
             />
             <button 
                 type="submit"

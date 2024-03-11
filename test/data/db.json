@@ -1,25 +1,29 @@
 {
-    "items": [
-        {
-            "id": 1,
-            "checked": false,
-            "item": "cat"
-        },
-        {
-            "id": 2,
-            "checked": false,
-            "item": "dog"
-        },
-        {
-            "id": 3,
-            "checked": false,
-            "item": "fish"
-        },
-        {
-            "id": 4,
-            "checked": false,
-            "item": "bird"
-        }
-        
-    ]
+  "items": [
+    {
+      "id": "1",
+      "checked": false,
+      "item": "cat"
+    },
+    {
+      "id": "3",
+      "checked": true,
+      "item": "fish"
+    },
+    {
+      "id": "4",
+      "checked": true,
+      "item": "bird"
+    },
+    {
+      "id": "41",
+      "checked": false,
+      "item": "Sushi"
+    },
+    {
+      "id": "411",
+      "checked": true,
+      "item": "pizza"
+    }
+  ]
 }
